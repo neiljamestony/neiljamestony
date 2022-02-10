@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Neil James Tony Valerio 👋
 
 <!--
 **neiljamestony/neiljamestony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+FRONT-END 
+- HTML, CSS, JAVASCRIPT, REACT JS, REDUX, MUI, BOOTSTRAP 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
