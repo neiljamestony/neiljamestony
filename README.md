@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on Weather Application
 - 🌱 I’m currently learning MERN STACK
-- 
 <!--
 **neiljamestony/neiljamestony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
