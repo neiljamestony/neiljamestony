@@ -4,7 +4,7 @@
 - Self-Taught Web Developer
 - Building Cool Projects
 - 🔭 I’m currently working on Weather Application
-- 🌱 I’m currently learning MERN STACK
+- 🌱 I’m currently learning MONGO DB, EXPRESS JS, REACT AND NODE JS
 
 ### FRONT-END 
 - HTML, CSS, JAVASCRIPT, REACT JS, REDUX, MUI, BOOTSTRAP 
