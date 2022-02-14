@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MONGO DB, EXPRESS JS, REACT AND NODE JS
 
 
-![](https://komarev.com/ghpvc/?username=neiljamestony)
+![](https://komarev.com/ghpvc/?username=neiljamestony&color=brightgreen)
 ### FRONT-END 
 - HTML, CSS, JAVASCRIPT, REACT JS, REDUX, MUI, BOOTSTRAP 
 
