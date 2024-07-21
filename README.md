@@ -1,5 +1,5 @@
-### Hi there, I'm Neil James Tony Valerio 👋
- 🌱 learning to build, building to learn.
+🌱 learning to build, building to learn. 👋
+ 
 
 <!--
 ### FRONTEND 
